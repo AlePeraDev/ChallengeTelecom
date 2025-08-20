@@ -18,5 +18,6 @@ Este proyecto analiza los datos de clientes de **TelecomX** con el objetivo de c
 - pandas
 - matplotlib
 - seaborn
-  Siempre habrá espacio para la mejora continua...
+- Siempre habrá espacio para la mejora continua...
+ 
 Elaborado por: J Alejandro Peralta G.
